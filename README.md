@@ -1,1 +1,1 @@
-# C-Quiz-project
+# C++-Quiz-project
